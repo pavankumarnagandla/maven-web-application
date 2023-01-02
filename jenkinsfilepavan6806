@@ -41,7 +41,7 @@ currentBuild.result = "FAILURE"
 }
 
 finally{
-SendSlackNotifictions(currentBuild.result)
+SendSlackNotifications(currentBuild.result)
 }
 
 }
