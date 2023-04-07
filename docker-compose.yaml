@@ -1,8 +1,8 @@
 version: '3.1'
 services:
   springboot:
-    image: dockerhandson/maven-web-app:$BUILD_NUMBER
-    image: dockerhandson/maven-web-app:1
+    image: dockersyampavan/maven-web-app:$BUILD_NUMBER
+    image: dockersyampavan/maven-web-app:1
     restart: always
     ports:
     - 9090:8080
