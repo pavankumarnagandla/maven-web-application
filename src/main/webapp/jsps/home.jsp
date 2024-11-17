@@ -9,18 +9,18 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions - GitHub-webhook  Demo </h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program demo on Dec 30th week at 7.00 PM IST for new batch. , This is a weekdays batch - 6.00  AM to 7.40  AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">Welcome to MSA Software Solutions</h1>
+<h1 align="center"> Welcome to MSA Software Solutions.......We have a DevOps Master Program demo on Dec 30th week at 7.00 PM IST for new batch. , This is a weekdays batch - 6.00  AM to 7.40  AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		MSA Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
+		+91-8977526806,
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
