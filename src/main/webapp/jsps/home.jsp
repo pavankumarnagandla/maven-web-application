@@ -18,8 +18,8 @@
 	</span>
 	<span style="font-weight: bold;">
 		MSA Software Solutions, 
-		Martha Halli,
-		Bangalore,
+		Amaravathi,
+		AndraPradesh,
 		+91-8977526806,
 		devopstrainingbr@gmail.com
 		<br>
