@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Axis-bank Releases Nexus Repository</name>
-	      <url>http://172.31.36.255:9980/pavantechnologies/repository/axisbank-release/</url>
+	      <name>Flipkart Releases Nexus Repository</name>
+	      <url>http://172.31.36.255:9980/pavantechnologies/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Axis-bank Snapshot Nexus Repository </name>
-	      <url>http://172.31.36.255:9980/pavantechnologies/repository/axisbank-snapshot/</url>
+	      <name>Flipkart Snapshot Nexus Repository </name>
+	      <url>http://172.31.36.255:9980/pavantechnologies/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
