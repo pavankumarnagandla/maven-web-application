@@ -21,7 +21,7 @@
 		Amaravathi,
 		AndraPradesh,
 		+91-8977526806,
-		devopstrainingbr@gmail.com
+		pavankumar6806@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
