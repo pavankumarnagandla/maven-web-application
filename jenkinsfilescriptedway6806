@@ -44,7 +44,7 @@ finally{
 SendSlackNotifications(currentBuild.result)
 }
 
-}
+}//node closing
 
 //Slack Send Notifications
 
